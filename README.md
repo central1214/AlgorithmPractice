@@ -1,4 +1,4 @@
-# AlgotithmPractice
+# AlgorithmPractice
   
 - 자주 출제되는 알고리즘 유형 공부
 - 알고리즘 별로 문제를 풀이
