@@ -4,7 +4,7 @@
 
 이미지출처 - https://coding-factory.tistory.com/
  - Java Collections Framework에 속한 구현체 클래스이면서, Map [인터페이스](https://limkydev.tistory.com/197)를 구현한 함수이다. 
-따라서 데이터의 저장은 key, value 형태가 된다.  key 값의 hashCode를 index로 Araay에 값을 저장한다. __따라서 검색속도는 매우 빠르다.__
+따라서 데이터의 저장은 key, value 형태가 된다.  key 값의 hashCode를 index로 Array에 값을 저장한다. __따라서 검색속도는 매우 빠르다.__
 그리고 해싱(Hashing) 검색을 사용하기 때문에 대용량 데이터 관리에도 좋은 성능을 보여주고 있다. 
 __key 값은 중복이 되지 않고, value 값은 허용__ 이 된다. (파이썬의 딕셔너리와 유사)
 
