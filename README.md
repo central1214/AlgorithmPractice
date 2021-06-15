@@ -5,7 +5,7 @@
 
 ## 공부할 알고리즘 유형
 
-- 해시
+- [해시](https://github.com/central1214/AlgorithmPractice/tree/main/HashMap)
 - 스택/큐
 - 힙
 - 정렬
