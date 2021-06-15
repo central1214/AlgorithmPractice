@@ -19,7 +19,7 @@ HashMap<Integer, String> map = new HashMap<Integer, String>();
 map.put(1, "정훈");
 map.put(2, "우영");
 map.put(3, "예진");
-map.put(3, "커피"); // 2번 키값은 중복이므로 마지막에 입력한 값이 덮어 씌워진다.
+map.put(3, "커피"); // 3번 키값은 중복이므로 마지막에 입력한 값이 덮어 씌워진다.
 // map.put(4.0, "쥬스"); // 컴파일 에러 (key값에 실수를 넣으면 에러)
 System.out.println(map);
 ```
