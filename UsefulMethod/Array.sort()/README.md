@@ -3,7 +3,7 @@
  - int형 자료들이야 각 요소들의 대소를 비교하여 오름차순, 혹은 내림차순으로 정렬이 되지만 문자열의 경우 어떻게 정렬할까?
 
 ### 사용법
-- int 배열정렬
+#### int 배열정렬
   - default는 오름차순이다.
 ```java
 int[] arr = {1, 26, 17, 25, 99, 44, 303};
@@ -26,8 +26,9 @@ System.out.println("Sorted arr[] : " + Arrays.toString(arr));
 ```
 ```java
 Sorted arr[] : [303, 99, 44, 26, 25, 17, 1]
-```
-- 부분정렬
+```   <br>
+
+#### 부분정렬
    - 배열 전체가 아닌 지정된 범위 안에서만 정렬이 가능하다.
    - sort()의 인자에 원하는 index범위를 전달한다.
 ```java
@@ -37,7 +38,7 @@ Arrays.sort(arr, 0, 4);
 
 System.out.println("Sorted arr[] : " + Arrays.toString(arr));
 ```
-- String형 정렬
+#### String형 정렬
   - int형 정렬과 같다.
   - 알파벳의 아스키 값으로 비교를 하여 정렬을 한다.
 ```java
@@ -50,7 +51,7 @@ System.out.println("Sorted arr[] : " + Arrays.toString(arr));
 ```java
 Sorted arr[] : [Apple, Banana, Cherry, Kiwi, Orange, Watermelon]
 ```
-#### 다양한 경우의 문자열 비교 
+#### 다양한 문자열 비교 
 - 길이가 같을 경우 첫 글자부터 비교후 정렬, 그후 2번째 글자들끼리 정렬한다
 ```java
 String[] num = {"12", "13", "11", "10", "22","20", "21",};
