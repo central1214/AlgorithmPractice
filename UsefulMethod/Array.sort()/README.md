@@ -26,7 +26,7 @@ System.out.println("Sorted arr[] : " + Arrays.toString(arr));
 ```
 ```java
 Sorted arr[] : [303, 99, 44, 26, 25, 17, 1]
-```   <br>
+``` 
 
 #### 부분정렬
    - 배열 전체가 아닌 지정된 범위 안에서만 정렬이 가능하다.
