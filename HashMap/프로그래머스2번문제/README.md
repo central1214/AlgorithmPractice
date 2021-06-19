@@ -22,7 +22,7 @@ import java.util.HashMap;
     }
 }
 ```
-- 효율성 테스트에서 2/4를 맞추고 실패한 답안
+- 효율성 테스트에서 2/4만 통과하고 실패한 코드
 - 배열을 이용하기 싫어서 억지로 해쉬로 했다.
 
 # 효율성 테스트 까지 통과한 코드
@@ -43,7 +43,7 @@ class Solution {
 	}
 }
 ```
-- Arrays.sort() 함수를 이용했다. <- Arrays.sort()함수의 특성은 여기로
+- Arrays.sort() 함수를 이용했다. <- Arrays.sort()함수의 특성은 [여기로](https://github.com/central1214/AlgorithmPractice/tree/main/UsefulMethod/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
 - 덕분에 for문을 1회만 써서 효율성 테스트에 성공!
 
 # 효율성 테스트 성공 & 해쉬맵을 쓴 코드
