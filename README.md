@@ -6,8 +6,8 @@
 ## 공부할 알고리즘 유형
 
 - [해시](https://github.com/central1214/AlgorithmPractice/tree/main/HashMap)
-- 스택/큐
-- 힙
+- [스택/큐](https://github.com/TIL-Study-Group/TIL-Study/blob/main/Stack_Queue.md)
+- [힙](https://github.com/rhkrdndud22/programus/blob/main/%ED%9E%99/heap.md)
 - 정렬
 - 완전탐색
 - 탐욕법
