@@ -16,4 +16,4 @@
 - 이분탐색
 - 그래프
 
-## [자료구조 공부하기 좋은 사이트](https://opentutorials.org/module/1335)
+## 자료구조 공부하기 좋은 사이트[(생활코딩)](https://opentutorials.org/module/1335)
