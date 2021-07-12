@@ -1,6 +1,6 @@
 # 문자열 자르기 substring
  - 사용법
- ```java
+ ```java  
  String.substring(start) //문자열  start위치부터 끝까지 문자열 자르기
 String.substring(start,end) //문자열  start위치 부터 end전까지 문자열 발췌
 		
